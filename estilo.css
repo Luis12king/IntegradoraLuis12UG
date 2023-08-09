@@ -2,12 +2,28 @@
 	padding:0;
 	margin:0;	
 }
+
+
+
 h1{
 	text-align:center;
 	background-color:#37805c;
 	color:white;
 	padding: 20px;
 }
+
+.textREA{
+     font-size: clamp(1rem, -1.5rem + 8vw, 3rem);
+     text-align: justify;
+}
+
+.aplicarlo{
+     font-size: clamp(1rem, -1.5rem + 8vw, 3rem);
+     text-align: justify;
+}
+
+
+
 nav ul {
 	background-color:#5a8570;
 	width: 100%;
@@ -45,6 +61,12 @@ img {
 	align-items: center;
 	padding: 40px;
 }
+
+.ejREA{
+	font-size: clamp(1rem, -1.5rem + 8vw, 3rem);
+	text-align: justify;
+}
+
 .Menu_2 {
 
 	width:20%;
